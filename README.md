@@ -1,6 +1,9 @@
 # Cripto Watcher APP - VUE
+## Aplicação web feito em vue que recebe as informações do preço do bitcoin utilizando web-socket e exibe as informações em um grafico candle.
 
 ### Projeto seguindo o curso do Sidney Souza que pode ser encontrado [aqui](https://www.youtube.com/playlist?list=PL370TvW48yBupAwG99DiAjLSLDwCoPb07)
+### Repositorio do crawler pode ser encontrado [aqui](https://github.com/matteizera/Cripto-watcher-app-Crawler)
+### Repositorio da api pode ser encontrado [aqui](https://github.com/matteizera/Cripto-watcher-app-api)
 
 ### Trilha & Melhorias
 
